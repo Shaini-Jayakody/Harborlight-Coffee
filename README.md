@@ -14,3 +14,8 @@ HTML5
 CSS3 (Flexbox, Grid, custom animations)
 Vanilla JavaScript (DOM manipulation, event listeners)
 Google Fonts – Playfair Display & Inter
+
+<p float="left">
+
+  <img src="Screenshots/scrollshot.png" width="200"/>
+</p>
